@@ -1,0 +1,15 @@
+E:\GameDev\2020.3.30f1\GameServer\GameServer\bin\Debug\net6.0\GameServer.exe
+E:\GameDev\2020.3.30f1\GameServer\GameServer\bin\Debug\net6.0\GameServer.deps.json
+E:\GameDev\2020.3.30f1\GameServer\GameServer\bin\Debug\net6.0\GameServer.runtimeconfig.json
+E:\GameDev\2020.3.30f1\GameServer\GameServer\bin\Debug\net6.0\GameServer.dll
+E:\GameDev\2020.3.30f1\GameServer\GameServer\bin\Debug\net6.0\GameServer.pdb
+E:\GameDev\2020.3.30f1\GameServer\GameServer\obj\Debug\net6.0\GameServer.csproj.AssemblyReference.cache
+E:\GameDev\2020.3.30f1\GameServer\GameServer\obj\Debug\net6.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\GameDev\2020.3.30f1\GameServer\GameServer\obj\Debug\net6.0\GameServer.AssemblyInfoInputs.cache
+E:\GameDev\2020.3.30f1\GameServer\GameServer\obj\Debug\net6.0\GameServer.AssemblyInfo.cs
+E:\GameDev\2020.3.30f1\GameServer\GameServer\obj\Debug\net6.0\GameServer.csproj.CoreCompileInputs.cache
+E:\GameDev\2020.3.30f1\GameServer\GameServer\obj\Debug\net6.0\GameServer.dll
+E:\GameDev\2020.3.30f1\GameServer\GameServer\obj\Debug\net6.0\refint\GameServer.dll
+E:\GameDev\2020.3.30f1\GameServer\GameServer\obj\Debug\net6.0\GameServer.pdb
+E:\GameDev\2020.3.30f1\GameServer\GameServer\obj\Debug\net6.0\GameServer.genruntimeconfig.cache
+E:\GameDev\2020.3.30f1\GameServer\GameServer\obj\Debug\net6.0\ref\GameServer.dll
